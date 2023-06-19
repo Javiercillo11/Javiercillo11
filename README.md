@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
-<h3 align="center">A passionate frontend developer from España</h3>
+<h3 align="center"> A passionate junior developer 💻 from Spain</h3>
 
-- 🌱 I’m currently learning **fullstack developer**
+- 🌱 I’m currently learning **Angular**
+- 🆙 I upload my little projects
+- 📧 Email: Javiercillo2001@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
