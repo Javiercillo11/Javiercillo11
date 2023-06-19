@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Javiercillo11
-- 💻 Soy Desarrollador FullStacks
+- 💻 Soy un Proyecto de Desarrollador FullStacks
 - 🆙 Subo Pequeños Proyectos
+- 📧 Javiercillo2001@gmail.com
 
 <!---
 Javiercillo11/Javiercillo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
