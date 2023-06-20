@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
 <h3 align="center"> A passionate junior developer 💻 from Spain</h3>
 
+<img src="https://www.shutterstock.com/image-vector/web-development-concept-table-computer-260nw-500071798.jpg" width="100%" height="500"/>
+
 - 🌱 I’m currently learning **Angular**
 - 🆙 I upload my little projects
-- 📧 Email: Javiercillo2001@gmail.com
+- 📧 **Email:** Javiercillo2001@gmail.com
 
 <h3 align="left">😁 Connect with me:</h3>
 <p align="left">
