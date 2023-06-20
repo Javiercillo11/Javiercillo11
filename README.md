@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
 <h3 align="center"> A passionate junior developer 💻 from Spain</h3>
 
-<img src="https://www.shutterstock.com/image-vector/web-development-concept-table-computer-260nw-500071798.jpg" width="100%" height="500"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qfqNtg05--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="100%" height="350"/>
 
 - 🌱 I’m currently learning **Angular**
 - 🆙 I upload my little projects
