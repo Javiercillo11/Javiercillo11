@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 - 🆙 I upload my little projects
-- 📧 **Email:** Javiercillo2001@gmail.com
+- 📧 **Email:** fjsanchezv2001@gmail.com
 
 <h3 align="left">😁 Connect with me:</h3>
 <p align="left">
