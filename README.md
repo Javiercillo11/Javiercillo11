@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
 <h3 align="center"> A Full Stack Junior Developer 💻 from Spain</h3>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qfqNtg05--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="100%" height="350"/>
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png" width="100%" height="500"/>
 
 - 🌱 I’m currently learning **Angular**
 - 🆙 I upload my little projects
@@ -9,7 +9,7 @@
 
 <h3 align="left">😁 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/francisco-javier-sanchez-vargas-12507a22b" target="blank"><img align="center" src="https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png" alt="francisco-javier-sanchez-vargas-12507a22b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francisco-javier-sanchez-vargas-12507a22b" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="francisco-javier-sanchez-vargas-12507a22b" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">♨ Languages and Tools:</h3>
